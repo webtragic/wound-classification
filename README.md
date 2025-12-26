@@ -19,4 +19,4 @@ Medetec, respectively. However, for the AZH dataset, the attained accuracy, prec
 method for classifying chronic wounds.
 Keywords: Chronic wound classification, Eff-ReLU-Net, EfficientNet, Medetec, Rectified learning unit
 
-Paper Link: Ullah, Sifat, Ali Javed, Muteb Aljasem, and Abdul Khader Jilani Saudagar. "Eff-ReLU-Net: a deep learning framework for multiclass wound classification." BMC Medical Imaging 25, no. 1 (2025): 257.
+[Paper Link]:(Ullah, Sifat, Ali Javed, Muteb Aljasem, and Abdul Khader Jilani Saudagar. "Eff-ReLU-Net: a deep learning framework for multiclass wound classification." BMC Medical Imaging 25, no. 1 (2025): 257.)
